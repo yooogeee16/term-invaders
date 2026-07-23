@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ytatthan0616-debug.github.io/term-invaders/sitemap.xml
